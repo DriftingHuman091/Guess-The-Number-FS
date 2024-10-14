@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pdg2F4Ym9A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sisbd\\Documents\\F#\\GuessTheNumber\\GuessTheNumber.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sisbd\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
